@@ -1,4 +1,6 @@
-# Audio Feature Engineering: Analisis Lagu "Everything You Are" - Hindia
+
+<h1 align="center"> Audio Feature Engineering: Analisis Lagu "Everything You Are" - Hindia</h1>
+<p align="center"> Faris Iftikhar Alfarisi/p>
 
 ## Deskripsi Proyek
 Notebook ini mendokumentasikan proses ekstraksi dan analisis fitur audio dari cuplikan 60 detik lagu "Everything You Are" karya Hindia. Proyek ini bertujuan untuk memahami karakteristik audio melalui berbagai teknik feature engineering.
